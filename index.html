@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bookshelf — Currently Reading</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <nav class="site-nav" aria-label="Main navigation">
+    <a href="index.html" class="nav-brand" aria-label="Bookshelf home">Bookshelf</a>
+    <ul class="nav-links" role="list">
+      <li><a href="index.html" aria-current="page">Reading</a></li>
+      <li><a href="to-read.html">To Read</a></li>
+      <li><a href="archive.html">Archive</a></li>
+    </ul>
+    <div class="nav-actions">
+      <button class="nav-icon-btn" id="btn-search" aria-label="Search for a book"></button>
+      <button class="nav-icon-btn" id="btn-settings" aria-label="Settings"></button>
+    </div>
+  </nav>
+
+  <main class="page">
+    <div class="container">
+
+      <header class="page-header">
+        <div class="page-header-left">
+          <h1 class="page-title">Currently Reading</h1>
+          <p class="page-subtitle" id="book-count"></p>
+        </div>
+        <button class="btn btn-primary" id="btn-add" aria-label="Add a book to currently reading">
+          + Add book
+        </button>
+      </header>
+
+      <div id="book-grid" class="book-grid" aria-label="Currently reading"></div>
+
+      <div id="empty-state" class="empty-state" hidden aria-live="polite"></div>
+
+    </div>
+  </main>
+
+  <!-- Loading screen -->
+  <div class="page-loading" id="page-loading" aria-hidden="true">
+    <div class="spinner"></div>
+  </div>
+
+  <!-- Modal & toast mount points -->
+  <div id="modal-root" aria-live="assertive"></div>
+  <div class="toast-container" id="toast-container" aria-live="polite" aria-atomic="true"></div>
+
+  <script type="module" src="js/index.js"></script>
+</body>
+</html>
