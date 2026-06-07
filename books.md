@@ -33,7 +33,7 @@
 ### Careless People
 - id: 1780830315865
 - author: Sarah Wynn-Williams
-- cover: https://covers.openlibrary.org/b/id/14852090-M.jpg
+- cover: covers/careless-people.jpg
 - isbn: 1035065932
 
 ## archive-finished
