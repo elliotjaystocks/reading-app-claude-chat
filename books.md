@@ -32,6 +32,12 @@
 - cover: https://covers.openlibrary.org/b/id/524046-M.jpg
 - isbn: 1931520720
 
+### Slewfoot
+- id: 1780858831637
+- author: Brom
+- cover: https://covers.openlibrary.org/b/id/11963844-M.jpg
+- isbn: 9781250621986
+
 ## to-read-bought
 
 ### Wuthering Heights
