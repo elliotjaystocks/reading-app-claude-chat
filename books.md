@@ -38,17 +38,17 @@
 - cover: covers/careless-people.jpg
 - isbn: 1035065932
 
-## to-read-bought
-
-## to-read-someday
-
-## archive-finished
-
 ### Things Become Other Things
 - id: 1779445668520
 - author: Craig Mod
 - cover: covers/tbot.jpg
 - isbn: 0593732545
+
+## to-read-bought
+
+## to-read-someday
+
+## archive-finished
 
 ## archive-abandoned
 
