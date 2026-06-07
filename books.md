@@ -26,13 +26,13 @@
 - cover: covers/bowling-with-corpses.jpg
 - isbn: 1506745881
 
-## to-read-bought
-
 ### Wuthering Heights
 - id: 1779445996914
 - author: Emily Brontë
 - cover: covers/wuthering-heights.jpg
 - isbn: 9783458141068
+
+## to-read-bought
 
 ## to-read-someday
 
