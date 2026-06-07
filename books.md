@@ -26,6 +26,12 @@
 - cover: covers/bowling-with-corpses.jpg
 - isbn: 1506745881
 
+### Stories of Your Life and Others
+- id: 1780857167907
+- author: Ted Chiang
+- cover: https://covers.openlibrary.org/b/id/524046-M.jpg
+- isbn: 1931520720
+
 ## to-read-bought
 
 ### Wuthering Heights
