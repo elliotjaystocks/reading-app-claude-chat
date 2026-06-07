@@ -2,12 +2,6 @@
 
 ## currently-reading
 
-### Universal Principles of Typography
-- id: 1779445480943
-- author: Stocks, Elliot Jay
-- cover: covers/upot.png
-- isbn: 9780760383384
-
 ### Drunk on All Your Strange New Words
 - id: 1779445653225
 - author: Eddie Robson
@@ -73,6 +67,12 @@
 - author: Ted Chiang
 - cover: https://covers.openlibrary.org/b/id/8793546-M.jpg
 - isbn: 9781101972083
+
+### Universal Principles of Typography
+- id: 1779445480943
+- author: Stocks, Elliot Jay
+- cover: covers/upot.png
+- isbn: 9780760383384
 
 ## archive-abandoned
 
