@@ -56,5 +56,11 @@
 - cover: covers/tbot.jpg
 - isbn: 0593732545
 
+### Exhalation
+- id: 1780857201764
+- author: Ted Chiang
+- cover: https://covers.openlibrary.org/b/id/8793546-M.jpg
+- isbn: 9781101972083
+
 ## archive-abandoned
 
